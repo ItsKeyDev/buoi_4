@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.img {
+  width: 1660px;
+  height: 960px;
+  border: 5px solid #000;
+  margin: 20px auto;
+  background: url("https://marketplace.canva.com/EAD5U7yJXIw/1/0/1600w/canva-xanh-l%C3%A1-g%E1%BA%A5u-tr%C3%BAc-h%C3%ACnh-minh-h%E1%BB%8Da-d%E1%BB%85-th%C6%B0%C6%A1ng-h%C3%ACnh-n%E1%BB%81n-m%C3%A1y-t%C3%ADnh-MaAvKwgkyuM.jpg")
+    no-repeat center center;
+  /* background-size: 80%; */
+}
